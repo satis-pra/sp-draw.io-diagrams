@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T09:20:04.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="0jjSvRc8S8ZaqnMtbVMe" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T09:21:34.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="vdIUFnQq_1jqLAOsV-un" version="13.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="qSbHCsYBkUt2KmadV8RH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;endSize=8;strokeColor=#6C8EBF;align=right;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qSbHCsYBkUt2KmadV8RH-22" target="qSbHCsYBkUt2KmadV8RH-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qSbHCsYBkUt2KmadV8RH-22" value="&lt;font color=&quot;#6c8ebf&quot;&gt;create tag and push &lt;br&gt;to build and deploy&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qSbHCsYBkUt2KmadV8RH-22" value="&lt;font color=&quot;#6c8ebf&quot;&gt;create git tag with version and push to build and deploy&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="680" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qSbHCsYBkUt2KmadV8RH-24" value="&lt;font color=&quot;#6c8ebf&quot;&gt;End&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
