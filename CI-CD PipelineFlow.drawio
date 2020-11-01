@@ -1,1 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T12:55:48.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.8.5" etag="nDX1eqjbwjSqnUTqw2xU" type="github"><diagram id="EsBg0sUoK6kndXaDrKjZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-01T12:54:49.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Q9qXEfJna2Ul0znp6hi1" version="13.8.5" type="github">
+  <diagram id="EsBg0sUoK6kndXaDrKjZ" name="Page-1">
+    <mxGraphModel dx="782" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0nuxeWBJl1thl-tcgTH--1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="40" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circle;endFill=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="0nuxeWBJl1thl-tcgTH--2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="159" y="330" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circle;endFill=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="359.5" as="targetPoint" />
+            <mxPoint x="320" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="390" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circle;endFill=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="359.5" as="targetPoint" />
+            <mxPoint x="400" y="359.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--11" value="&lt;font color=&quot;#6c8ebf&quot;&gt;Build Artifact&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="275" y="372" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--12" value="&lt;font color=&quot;#6c8ebf&quot;&gt;Upload Artifact&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="375" y="327" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--18" value="&lt;font color=&quot;#6c8ebf&quot;&gt;Deploy Application&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="495" y="371" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;endArrow=block;endFill=0;strokeWidth=2;exitX=0.55;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0nuxeWBJl1thl-tcgTH--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="356" as="sourcePoint" />
+            <mxPoint x="159" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="316" />
+              <mxPoint x="60" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--20" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="159" y="450" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--22" value="&lt;font color=&quot;#6c8ebf&quot;&gt;Push higher env tag&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circle;endFill=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="0nuxeWBJl1thl-tcgTH--20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="480" as="targetPoint" />
+            <mxPoint x="254" y="479.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--24" value="&lt;font color=&quot;#6c8ebf&quot;&gt;Download Artifact&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="448" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circle;endFill=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="480" as="targetPoint" />
+            <mxPoint x="364.5" y="479.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="520" y="480" />
+              <mxPoint x="520" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--26" value="&lt;font color=&quot;#6c8ebf&quot;&gt;Deploy Application&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="495" y="448" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--21" value="&lt;font color=&quot;#6c8ebf&quot;&gt;Push dev tag&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="48" y="329" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;endArrow=block;endFill=0;strokeWidth=2;" edge="1" parent="1" target="0nuxeWBJl1thl-tcgTH--2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="360" as="sourcePoint" />
+            <mxPoint x="159" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="360" />
+              <mxPoint x="120" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--31" value="&lt;font color=&quot;#6c8ebf&quot;&gt;Ex: 1.0.0-dev&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="48" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0nuxeWBJl1thl-tcgTH--32" value="&lt;font color=&quot;#6c8ebf&quot;&gt;Ex: 1.0.0-qa&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="48" y="480" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
