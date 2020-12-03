@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T13:14:38.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tVQEY_0FeNYRndAFV89B" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T13:18:02.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="qHjvB0NZBt4SiQMHiiCe" version="13.8.8" type="github">
   <diagram id="idqPf7t2UR4r319JhTjq" name="Page-1">
     <mxGraphModel dx="782" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -125,6 +125,12 @@
         </mxCell>
         <mxCell id="P4zURAU-6gm-1L-DjQnw-52" value="System Admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6C8EBF;" vertex="1" parent="1">
           <mxGeometry x="15" y="640" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P4zURAU-6gm-1L-DjQnw-56" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.switch_on;fillColor=#E6E6E6;fontColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="355" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P4zURAU-6gm-1L-DjQnw-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.switch_on;fillColor=#E6E6E6;fontColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="434" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
